@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **JavaScript, Python**
 
-- 📫 How to reach me **sujeet.kushwaha347966@gmail.com**
+- 📫 How to reach me (https://www.linkedin.com/feed/)
 
 - ⚡ Fun fact **I like making 2D fun games 🎮.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujeet kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeet kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeet kushwaha" height="30" width="40" /></a>
 <a href="https://fb.com/bittu kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bittu kushwaha" height="30" width="40" /></a>
 </p>
 

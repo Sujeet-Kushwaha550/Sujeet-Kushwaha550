@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Python**
 
-- 📫 How to reach me (https://www.linkedin.com/feed/)
+- 📫 How to reach me https://www.linkedin.com/in/sujeet-kushwaha-344860209/
 
 - ⚡ Fun fact **I like making 2D fun games 🎮.**
 

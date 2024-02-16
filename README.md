@@ -3,8 +3,6 @@
 <body>
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
 <h3 align="center">A Software Engineer from India</h3>
-
-<!--<img align="left" alt="coding-penguine" width="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?"/>-->
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet-kushwaha550&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet-kushwaha550" /> </p>
